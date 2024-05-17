@@ -45,8 +45,14 @@ export const projects: ProjectProps = [
     description: "A Vscode themed portfolio",
     image: Images.vscodeLogo,
     githubLink: "https://github.com/RohithReddy-45/vscode-portfolio",
-    liveSite: "https://youtube.com/shorts/vnpea1uDrdM",
-    tags: ["React native", "Expo", "Typescript", "Nativewind"],
+    liveSite: "https://youtube.com/shorts/W-KomMxYqGw",
+    tags: [
+      "React native",
+      "Expo SDK50",
+      "React Query",
+      "Reanimated",
+      "Nativewind",
+    ],
   },
   {
     id: 2,
