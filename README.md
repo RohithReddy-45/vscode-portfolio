@@ -1,6 +1,6 @@
 # VSCode Portfolio
 
-VSCode Portfolio is a unique and engaging portfolio app with a VSCode-inspired theme. Built using Expo SDK 50, React Native, Nativewind, and React Query, this app offers a modern way to showcase your skills and projects.
+VSCode Portfolio is a unique and engaging portfolio app with a VSCode-inspired theme. Built using Expo SDK 50, React Native. This app offers a modern way to showcase skills and projects.
 
 ## Technologies Used
 
