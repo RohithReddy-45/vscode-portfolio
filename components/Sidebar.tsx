@@ -1,4 +1,3 @@
-import { View } from "@/components/Themed";
 import {
   Feather,
   FontAwesome6,
@@ -6,11 +5,12 @@ import {
   SimpleLineIcons,
 } from "@expo/vector-icons";
 import FontAwesome from "@expo/vector-icons/FontAwesome";
-
-import { useTheme } from "@/hooks";
-import { useFocus } from "@/providers/FocusProvider";
 import { useRouter } from "expo-router";
 import { Pressable } from "react-native";
+
+import { View } from "@/components/Themed";
+import { useTheme } from "@/hooks";
+import { useFocus } from "@/providers/FocusProvider";
 
 type SidebarProps = {
   handleFocus: (name: string) => void;
